@@ -1,0 +1,49 @@
+﻿Tower Id,Cell Tower Name,Tenure (Month),Service Flag,Age,Subscriber Number,Region
+1,NJ Jersey City ,12,1,10,10 Mn,City
+1,NJ Jersey City ,11,0,10,10 Mn,City
+1,NJ Jersey City ,10,0,10,10 Mn,City
+1,NJ Jersey City ,9,0,10,10 Mn,City
+1,NJ Jersey City ,8,1,10,10 Mn,City
+1,NJ Jersey City ,7,0,10,10 Mn,City
+1,NJ Jersey City ,6,0,10,10 Mn,City
+1,NJ Jersey City ,5,0,10,10 Mn,City
+1,NJ Jersey City ,4,1,10,10 Mn,City
+1,NJ Jersey City ,3,0,10,10 Mn,City
+1,NJ Jersey City ,2,0,10,10 Mn,City
+1,NJ Jersey City ,1,0,10,10 Mn,City
+2,NJ Old Bridge,12,1,25,9 Mn,Hill
+2,NJ Old Bridge,11,0,25,9 Mn,Hill
+2,NJ Old Bridge,10,0,25,9 Mn,Hill
+2,NJ Old Bridge,9,1,25,9 Mn,Hill
+2,NJ Old Bridge,8,0,25,9 Mn,Hill
+2,NJ Old Bridge,7,0,25,9 Mn,Hill
+2,NJ Old Bridge,6,1,25,9 Mn,Hill
+2,NJ Old Bridge,5,0,25,9 Mn,Hill
+2,NJ Old Bridge,4,0,25,9 Mn,Hill
+2,NJ Old Bridge,3,1,25,9 Mn,Hill
+2,NJ Old Bridge,2,0,25,9 Mn,Hill
+2,NJ Old Bridge,1,0,25,9 Mn,Hill
+3,NJ Newark,12,1,12,15 Mn,City
+3,NJ Newark,11,0,12,15 Mn,City
+3,NJ Newark,10,0,12,15 Mn,City
+3,NJ Newark,9,0,12,15 Mn,City
+3,NJ Newark,8,0,12,15 Mn,City
+3,NJ Newark,7,0,12,15 Mn,City
+3,NJ Newark,6,1,12,15 Mn,City
+3,NJ Newark,5,0,12,15 Mn,City
+3,NJ Newark,4,0,12,15 Mn,City
+3,NJ Newark,3,0,12,15 Mn,City
+3,NJ Newark,2,0,12,15 Mn,City
+3,NJ Newark,1,0,12,15 Mn,City
+4,NJ Port Newark,12,1,3,5 Mn,Hill
+4,NJ Port Newark,11,0,3,5 Mn,Hill
+4,NJ Port Newark,10,0,3,5 Mn,Hill
+4,NJ Port Newark,9,0,3,5 Mn,Hill
+4,NJ Port Newark,8,0,3,5 Mn,Hill
+4,NJ Port Newark,7,0,3,5 Mn,Hill
+4,NJ Port Newark,6,0,3,5 Mn,Hill
+4,NJ Port Newark,5,0,3,5 Mn,Hill
+4,NJ Port Newark,4,0,3,5 Mn,Hill
+4,NJ Port Newark,3,0,3,5 Mn,Hill
+4,NJ Port Newark,2,0,3,5 Mn,Hill
+4,NJ Port Newark,1,0,3,5 Mn,Hill
